@@ -1,8 +1,8 @@
 ## Matrix inversion optimisation
-## Avoid calling solve() is inverse has already been computed
+## Avoid calling solve() if inverse has already been computed
 
 ## makeCacheMatrix take a matrix x as argument and return a list of 4 functions
-## set that store x in the creation environement of the functions
+## set that store x in the creation environement of the 4 functions
 ## get that return x
 ## setinverse that strore an object in the creation environement of the functions
 ## getinverse that return that object
